@@ -1,0 +1,25 @@
+{
+  "product": {
+    "-NTR7fyl0JTnHGvZTXdO": {
+      "giaSp": "13000",
+      "loaiSp": "nước đóng chai",
+      "tenSp": "cocacola",
+      "uid": "-NTR7fyl0JTnHGvZTXdN",
+      "urlImageSp": "https://firebasestorage.googleapis.com/v0/b/app-chat-8bb9e.appspot.com/o/images%2Fd11fb2c6-07f4-47ad-83ce-14463f0c1f2a?alt=media&token=27d7fd9a-e049-466b-9998-bbe343b7a07e"
+    },
+    "-NTR7py2lUun9vDW7SZf": {
+      "giaSp": "130000",
+      "loaiSp": "nước ngọt",
+      "tenSp": "pepsi",
+      "uid": "-NTR7py2lUun9vDW7SZe",
+      "urlImageSp": "https://firebasestorage.googleapis.com/v0/b/app-chat-8bb9e.appspot.com/o/images%2F28e12f2d-7d77-43ee-83cb-fddd49bf3195?alt=media&token=fbf8d3e5-fc24-4477-a9f0-5d321b6e44a7"
+    },
+    "-NTR7vwSARlUH9MviVDU": {
+      "giaSp": "130000",
+      "loaiSp": "nước giải khad",
+      "tenSp": "bí đao",
+      "uid": "-NTR7vwSARlUH9MviVDT",
+      "urlImageSp": "https://firebasestorage.googleapis.com/v0/b/app-chat-8bb9e.appspot.com/o/images%2Fba6147ff-c225-4bdb-ab2d-cd0a88143785?alt=media&token=12f0be10-af45-46e8-adb9-18e3953c0c87"
+    }
+  }
+}
